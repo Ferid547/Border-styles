@@ -1,0 +1,25 @@
+.border1 {
+    border: 1px solid;
+    padding: 10px;
+    width: 500px;
+}
+
+.border2 {
+    border-bottom: 1px solid red;
+    padding: 10px;
+    width: 500px;
+}
+
+.border3 {
+    border-radius: 15px;
+    border: 1px solid grey;
+    padding: 10px;
+    width: 500px;
+}
+
+.border4 {
+    border-left: 6px solid blue;
+    background: #a9c8ff;
+    padding: 10px;
+    width: 500px;
+}
